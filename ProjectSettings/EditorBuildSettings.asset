@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 9b5703fcb86eaaf4fa1fa9cf26a58200
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 7c75263cf66ba39419c84f06c0c272be
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 15188d9a1cb20784b9e03f9943e9f891, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e77cfdc8273e64041b0806400a1e16f0, type: 2}
